@@ -46,7 +46,24 @@ The target variable for this project is hospital_expire_flag.
 
 ## Project Structure
 
-text icu-patient-risk-modeling/ ├── README.md ├── requirements.txt ├── .gitignore ├── notebooks/ │   └── icu-patient-risk-modeling.ipynb ├── visuals/ │   ├── mortality_distribution.png │   ├── mortality_by_age_group.png │   ├── icu_los_by_mortality.png │   ├── mortality_by_admission_type.png │   ├── confusion_matrix.png │   ├── roc_curve.png │   └── logistic_regression_coefficients.png └── data/     └── README.md 
+```text
+icu-patient-risk-modeling/
+├── README.md
+├── requirements.txt
+├── .gitignore
+├── notebooks/
+│   └── icu-patient-risk-modeling.ipynb
+├── visuals/
+│   ├── mortality_distribution.png
+│   ├── mortality_by_age_group.png
+│   ├── icu_los_by_mortality.png
+│   ├── mortality_by_admission_type.png
+│   ├── confusion_matrix.png
+│   ├── roc_curve.png
+│   └── logistic_regression_coefficients.png
+└── data/
+    └── README.md
+```
 
 ## Methodology
 
